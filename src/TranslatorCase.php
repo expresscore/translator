@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of the EasyCore package.
+ * This file is part of the ExpressCore package.
  *
  * (c) Marcin Stodulski <marcin.stodulski@devsprint.pl>
  *
